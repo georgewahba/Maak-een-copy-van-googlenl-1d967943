@@ -1,0 +1,118 @@
+div#nummer1{
+	position: absolute;
+	top: 8px;
+	right: 16px;
+
+}
+#google2{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 13%;
+	width: 17.87%;
+}
+#google3{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1.8%;
+	width: 31%;	
+	padding: 10px 50px 17px;
+	border-width:  1px;
+	border-style: solid;
+	border-color: lightgray ;
+	border-radius: 25px;
+	
+
+}
+#google3:hover{
+	box-shadow: 0 0 11px rgba(33,33,33,.2); 
+
+}
+#nummer3{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1.8%;
+	width: 17.5%;	
+}
+a{
+	color: gray;
+	text-decoration: none;
+	padding: 5px;
+}
+#kleur{
+	color: black;
+	text-decoration: none;
+	padding: 5px;
+}
+#kleur2{
+	color: blue
+}
+#button{
+	width: 129px ;
+	height: 37px;
+	border:solid;
+	border-color: white;
+	border-radius:2px;
+
+}
+#button:hover{
+	border: solid;
+	border-color: black;
+	border-radius: 2px;
+
+}
+#nummer4{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1.8%;
+	width: 13%;		
+}
+
+#bar1 {
+  position: fixed;
+  left: 0px;
+  bottom: 40px;
+  width: 100%;
+  background-color: lightgray;
+  padding-left: 35px;
+  color: gray;
+  }
+ #bar2{
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 40px;
+  background-color: lightgray;	
+  padding-left: 30px;
+  color: gray;
+ }
+#left{
+	position: absolute;
+	bottom:20px;
+	right: 230px;
+
+}
+#left2{
+	position: absolute;
+	bottom:20px;
+	right: 130px;
+}
+#left3{
+	position: absolute;
+	bottom:20px;
+	right: 30px;
+}
+#pos1{
+	position: absolute;
+	bottom:405px;
+	left: 500px;
+}
+#pos2{
+	position: absolute;
+	bottom:405px;
+	right: 500px;
+}
